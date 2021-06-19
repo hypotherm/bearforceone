@@ -1,0 +1,7 @@
+## Interface: 11307
+## Title: |cFFFFFFFFBear Fore One|r|cFF00FF00 (Beta)|r
+## Notes: Assign roles for various raid fights
+## Author: Guzz
+## Version: 0.1.0
+## SavedVariables: bearforceoneDb
+## OptionalDeps: Ace3
